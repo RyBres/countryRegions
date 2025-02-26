@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">USRegions</string>
+
+    <!-- UI Strings -->
+    <string name="app_title">Match US Regions to States</string>
+    <string name="select_region">Select Region</string>
+    <string name="states">States will be listed here...</string>
+
+    <!-- Spinner items -->
+    <string-array name="regions">
+        <item>Northeast</item>
+        <item>South</item>
+        <item>Midwest</item>
+        <item>West</item>
+    </string-array>
+</resources>
